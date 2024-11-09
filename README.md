@@ -20,14 +20,13 @@
 ---
 
 ### 💻 Projects
-#### 🔹 **WHIZBOT**
-  - **WHIZBOT** is an advanced WhatsApp bot that integrates various features to automate tasks and streamline user interactions.
-  - Includes **Admin Commands & Control**, **QR-based Pairing**, and customizable features.
-
-#### 🔹 [**WHIZ HOST KE**](https://github.com/ke-whiz/WHIZHOSTKE)
+#### 🔹 **WHIZ HOST KE**
   - A custom cloud platform as a service, using **Python** as the backend.
   - Clean, intuitive signup/login design, user-friendly input fields, and secure authentication.
-  - Empowering developers with cloud hosting capabilities tailored for the Kenyan market.
+  - Aiming to empower developers with cloud hosting capabilities tailored for the Kenyan market.
+
+#### 🔹 [**CLING-MD**](https://github.com/Whizmburu/Cling-Md)
+  - An innovative Markdown viewer for interactive and colorful presentations.
 
 ---
 
@@ -44,8 +43,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ke-whiz&show_icons=true&theme=radical&hide_border=true" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ke-whiz&layout=compact&theme=radical&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Whizmburu&show_icons=true&theme=radical&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whizmburu&layout=compact&theme=radical&hide_border=true" width="400">
 </p>
 
 ---
@@ -53,8 +52,8 @@
 ### 🖥️ Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/josphat-njuguna"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ke.whiz@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ke-whiz"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:whizhostke@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Whizmburu"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
