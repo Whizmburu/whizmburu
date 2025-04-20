@@ -1,10 +1,10 @@
 # ✨ Welcome to My Creative Tech Space ✨
 
 <p align="center">
-  ![CreativeSpace](https://img.shields.io/badge/-CreativeSpace-D4AF37?style=flat-square&logo=dev&logoColor=white)
-  ![Followers](https://img.shields.io/github/followers/whizmburu?style=social&label=Followers)
-  ![Stars](https://img.shields.io/github/stars/whizmburu?style=social&label=Stars)
-  ![Visitor Count](https://profile-counter.glitch.me/whizmburu/count.svg)
+  <img src="https://img.shields.io/badge/-CreativeSpace-D4AF37?style=flat-square&logo=dev&logoColor=white" alt="CreativeSpace" />
+  <img src="https://img.shields.io/github/followers/whizmburu?style=social&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/whizmburu?style=social&label=Stars" alt="Stars" />
+  <img src="https://profile-counter.glitch.me/whizmburu/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ I’m a spirited technologist and relentless learner from Nakuru & Kiambu, Kenya
   Turn markdown into **vibrant**, **interactive** slides—ideal for workshops, talks, and tutorials.
 
 - ### 🎉 Coming Soon  
-  - **Cloud CLI plugin** for supercharged deployments  
+  - **Cloud CLI plugin** for one‑command deploys  
   - **Realtime monitoring dashboard** with metrics & logs  
 
 ---
@@ -140,7 +140,7 @@ I’m a spirited technologist and relentless learner from Nakuru & Kiambu, Kenya
 - 🇰🇪 Proud Kenyan coding in Nairobi timezone  
 - 🤖 Creator of **WHIZBOT**, my AI sidekick  
 - ☕️ Fueled by espresso & midnight brainstorms  
-- 🎬 Favorite break: watching tech talks & sci-fi  
+- 🎬 Favorite break: watching tech talks & sci‑fi  
 
 ---
 
