@@ -1,11 +1,11 @@
 # ✨ Welcome to My Creative Tech Space ✨
 
-![CreativeSpace](https://img.shields.io/badge/-CreativeSpace-D4AF37?style=flat-square&logo=dev&logoColor=white)  
-![Followers](https://img.shields.io/github/followers/whizmburu?label=Followers&style=social)  
-![Stars](https://img.shields.io/github/stars/whizmburu?label=Stars&style=social)  
-![Visitor Count](https://profile-counter.glitch.me/whizmburu/count.svg)
-
----
+<p align="center">
+  ![CreativeSpace](https://img.shields.io/badge/-CreativeSpace-D4AF37?style=flat-square&logo=dev&logoColor=white)
+  ![Followers](https://img.shields.io/github/followers/whizmburu?label=Followers&style=social)
+  ![Stars](https://img.shields.io/github/stars/whizmburu?label=Stars&style=social)
+  ![Visitor Count](https://profile-counter.glitch.me/whizmburu/count.svg)
+</p>
 
 📌 **TL;DR:** Cloud‑platform builder | Markdown magician | Kenyan coder on a mission 🌍
 
