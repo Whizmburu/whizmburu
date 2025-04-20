@@ -10,13 +10,13 @@
 
 Hey there! I’m a passionate innovator and lifelong learner from Kenya — exploring the world of tech with curiosity and drive. Whether it’s coding up a storm, building cloud platforms, or designing intuitive digital tools, I’m always on a mission to **make impact through innovation**.
 
-- 📍 Based in Nakuru, with roots in Kiambu
-- 📚 Engineering student diving deep into Telecom & Info Systems
-- 🚀 Currently building **next-gen cloud platforms** for developers in Africa
+- 📍 Based in Nakuru, with roots in Kiambu  
+- 📚 Engineering student diving deep into Telecom & Info Systems  
+- 🚀 Currently crafting **next‑gen cloud platforms** for developers in Africa  
 - ❤️ Fueled by purpose, people, and pixels
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYxMjhhOGx1bHU2b2hvZmx4NWRyeHZjbzAyYzA4NWhkOGc3bHJ0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3otO6zntMrmhpvaYX6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYxMjhhOGx1bHU2b2hvZmx4NWRyeHZjbzAyYzA4NWhkOGc3bHJ0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3otO6zntMrmhpvaYX6/giphy.gif" width="300" alt="Studying Gif" />
 </p>
 
 ---
@@ -24,10 +24,10 @@ Hey there! I’m a passionate innovator and lifelong learner from Kenya — expl
 ## 🔧 What I’m Crafting
 
 ### ☁️ WHIZ HOST KE  
-A developer-first **Cloud PaaS** built with simplicity and speed in mind. Think of it as **Heroku for Africa**, designed with clean UI, strong authentication, and an empowering mission.
+A developer‑first **Cloud PaaS** built with simplicity and speed in mind. Think **Heroku for Africa**, complete with clean UI, robust auth, and an empowering mission.
 
-### 📝 CLING-MD  
-Turn your markdown files into sleek, interactive, and colorful presentations. Perfect for talks, storytelling, or docs with flair.
+### 📝 CLING‑MD  
+Transform your markdown into sleek, interactive, and colorful presentations—perfect for talks, docs, and storytelling with flair.
 
 ---
 
@@ -43,7 +43,7 @@ Turn your markdown files into sleek, interactive, and colorful presentations. Pe
 
 ---
 
-## 📈 Quick Peek at the Code World
+## 📈 A Glimpse at My GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whizmburu&show_icons=true&theme=gruvbox&hide_border=true" width="400" />
@@ -52,39 +52,25 @@ Turn your markdown files into sleek, interactive, and colorful presentations. Pe
 
 ---
 
-## 💞 Coding With Heart
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYxMjhhOGx1bHU2b2hvZmx4NWRyeHZjbzAyYzA4NWhkOGc3bHJ0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UevalSWg5twQeqpc8Q/giphy.gif" width="300" />
+## 🖥️ Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/josphat-njuguna">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:whizhostke@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Whizmburu">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
----
-
-## 🏡 Life, Coffee & Chill
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYxMjhhOGx1bHU2b2hvZmx4NWRyeHZjbzAyYzA4NWhkOGc3bHJ0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bHSkKRvkRvy5chUBBp/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGp4MGpuYTl5MjQ1czRodGphazhlNzM3YXM4NjFxbTRwMHJoMDBzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kQ9RplY8BmWr0AqMWX/giphy.gif" width="300" alt="Connect Gif"/>
 </p>
-
----
-
-## 🤝 Let’s Collaborate
-
-Feel like working on something awesome together? Or just want to talk code, creativity, or cloud? I’d love to connect:
-
-- 💬 DM me on [LinkedIn](https://linkedin.com/in/josphat-njuguna)
-- 📩 Email: **whizhostke@gmail.com**
 
 ---
 
 <p align="center">
   💡 *Building meaningful things. Learning every day. Creating for the future.*  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsWTtItvi9EFgaE/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  🌟 Thanks for stopping by. Explore, collaborate, and let's innovate together 🌟
 </p>
